@@ -1,0 +1,7 @@
+hola
+gato
+perro
+silla
+cafe
+madera
+tabla
